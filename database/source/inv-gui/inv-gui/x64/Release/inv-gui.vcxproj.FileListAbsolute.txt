@@ -1,0 +1,3 @@
+C:\Users\preyc\OneDrive\Desktop\database\source\inv-gui\inv-gui\x64\Release\invgui.MyForm.resources
+C:\Users\preyc\OneDrive\Desktop\database\source\inv-gui\inv-gui\x64\Release\inv-gui.vcxproj.GenerateResource.cache
+C:\Users\preyc\OneDrive\Desktop\database\source\inv-gui\inv-gui\x64\Release\inv-gui.vcxproj.AssemblyReference.cache
